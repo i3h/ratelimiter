@@ -1,3 +1,3 @@
-module github.com/i3h/ratelimiter-go
+module github.com/i3h/ratelimiter
 
 go 1.14
